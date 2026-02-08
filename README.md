@@ -60,5 +60,5 @@ pip install -r requirements.txt
 
 ## 📧 Contact
 Developed by **YiPeng Chen**. 
-Specializing in the intersection of **Physics** and **Artificial Intelligence**.
-- **Contact**: yipeng003@e.ntu.edu.sg
+- **Email**: yipeng003@e.ntu.edu.sg
+- **GitHub**: [Chenypovo](https://github.com/Chenypovo)
