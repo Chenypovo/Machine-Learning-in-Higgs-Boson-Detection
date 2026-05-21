@@ -1,4 +1,4 @@
-# Machine Learning for Higgs Boson Detection ⚛️
+# Machine Learning for Higgs Boson Detection 
 
 **Deep learning approach for b-quark tagging in Higgs boson decay analysis**
 
@@ -6,7 +6,7 @@ This project bridges High-Energy Physics (HEP) analysis with modern Deep Learnin
 
 ---
 
-## 📊 Results
+## Results
 
 | Method | Signal Sensitivity | Improvement |
 | :--- | :---: | :---: |
@@ -15,7 +15,7 @@ This project bridges High-Energy Physics (HEP) analysis with modern Deep Learnin
 
 ---
 
-## 🧠 Methodology
+## Methodology
 
 ### Pre-processing
 - **Feature Selection**: Removed constant discriminants (nJ, nTags) to reduce model bias
@@ -30,7 +30,7 @@ This project bridges High-Energy Physics (HEP) analysis with modern Deep Learnin
 
 ---
 
-## 🛠 Installation
+## Installation
 
 ```bash
 # Clone the repo
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ### Baseline (Cut-Based Selection)
 Run `Higgs-Cutbased selection (1).ipynb` to reproduce the 1.863 sensitivity benchmark.
@@ -53,7 +53,7 @@ Run `Higgs-Machine Learning (1).ipynb` to train the neural network and verify th
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 *   `Higgs-Cutbased selection (1).ipynb`: Baseline physical cut implementation
 *   `Higgs-Machine Learning (1).ipynb`: Full ML pipeline (preprocessing, training, evaluation)
@@ -62,7 +62,7 @@ Run `Higgs-Machine Learning (1).ipynb` to train the neural network and verify th
 
 ---
 
-## 📧 Contact
+## Contact
 
 Developed by **YiPeng Chen**.
 - **Email**: yipeng003@e.ntu.edu.sg
